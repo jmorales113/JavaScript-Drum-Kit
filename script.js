@@ -2,12 +2,16 @@
 window.addEventListener("keydown", (e) => {
   // create constant variable to queryselecter audio data-key = `audio[data-key={"e.keyCode}"]`
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
-  // create constant to queryselect class key
-  // console.log(key)
   // if no audio then return  //Stops the function from running all together
+  if (!audio) return;
   // audio.currentTime = 0 // rewind to the start
+  audio.currentTime = 0;
   // audio.play() // plays the audio
-  // add class of playing tao key variable
+  audio.play();
+  // create constant to queryselect class key
+  const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
+  // add class of playing to key variable
+  key.classList.add("playing");
 });
 
 // Need to take away border after click
