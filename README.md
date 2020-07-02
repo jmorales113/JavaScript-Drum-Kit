@@ -10,13 +10,11 @@ Hear a distinct sound when pressing down on the letters in the basic position of
 
 - [Installation](#Installation)
 
-- [Usage](#Usage)
-
 - [License](#License)
 
-- [Contributing](#Contributing)
+- [Contributor](#Contributor)
 
-- [Tests](#Tests)
+- [Acknowledgement](#Acknowledgement)
 
 - [Questions](#Questions)
 
@@ -35,6 +33,8 @@ MIT
 
 ## Deployed Application
  https://jmorales113.github.io/JavaScript-Drum-Kit/
+ 
+ ## Acknowledgement
 
 ## Questions
 
