@@ -37,7 +37,7 @@ MIT
 [Jorge Morales](https://github.com/jmorales113)
 
 ## Deployed Application
-
+ https://jmorales113.github.io/JavaScript-Drum-Kit/
 
 ## Questions
 
