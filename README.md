@@ -35,6 +35,9 @@ MIT
  https://jmorales113.github.io/JavaScript-Drum-Kit/
  
  ## Acknowledgement
+ 
+ javascript30.com
+ 30 Day Vanilla JS Challenge
 
 ## Questions
 
