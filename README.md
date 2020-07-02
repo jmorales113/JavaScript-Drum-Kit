@@ -22,9 +22,7 @@ Hear a distinct sound when pressing down on the letters in the basic position of
 
 ## Installation
 
-To install necessary dependencies, run the following command:
-
-    npm install
+    none
 
 ## Usage
 
@@ -34,7 +32,7 @@ It needs to have an image and be in markdown
 
 MIT
 
-## Contributing
+## Contributor
 
 [Jorge Morales](https://github.com/jmorales113)
 
