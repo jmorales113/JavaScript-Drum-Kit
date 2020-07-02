@@ -1,12 +1,10 @@
 # JavaScript-Drum-Kit
 
-# ReadMe-Generator
-
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Description
 
-To generate a good ReadMe file using Node and dependencies "inquirer" and "axios"
+Hear a distinct sound when pressing down on the letters in the basic position of the keyboard
 
 ## Table of Contents
 
@@ -38,13 +36,10 @@ MIT
 
 ## Contributing
 
-They should be able to run it on the command line
+[Jorge Morales](https://github.com/jmorales113)
 
-## Tests
+## Deployed Application
 
-To perform a test, run the following command:
-
-    npm test
 
 ## Questions
 
