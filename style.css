@@ -59,3 +59,14 @@ kbd {
   letter-spacing: 0.1rem;
   color: #81b8a1;
 }
+
+@media screen and (max-width: 640px) {
+  .keys {
+    display: flex;
+    flex-direction: column;
+  }
+  h1 {
+    font-size: 24px !important;
+    margin: 0;
+  }
+}
