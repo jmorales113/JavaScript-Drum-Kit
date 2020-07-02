@@ -36,7 +36,7 @@ MIT
  
  ## Acknowledgement
  
- javascript30.com
+ https://javascript30.com
  30 Day Vanilla JS Challenge
 
 ## Questions
