@@ -24,9 +24,6 @@ Hear a distinct sound when pressing down on the letters in the basic position of
 
     none
 
-## Usage
-
-It needs to have an image and be in markdown
 
 ## License
 
